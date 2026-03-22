@@ -14,5 +14,5 @@ Junior Security Analyst with hands-on experience in penetration testing, vulnera
 
 ## Projects
 - Internal Network Security Assessment Lab (Windows & Linux)
-- SOC Alerting & Log Analysis Tool
-- Ransomware Behavior Simulation
+- Phishing Email Analyzer
+- SOC Alerting System (PCAP & Log Analysis)
